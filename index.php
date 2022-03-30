@@ -76,7 +76,24 @@ $faq = [
 <body>
 
     <header>
-
+        <div class="first-header">
+            <div class="logo">
+                <img src="https://steigerlegal.ch/wp-content/uploads/2016/02/google_logo_001.jpg" alt="">
+                <h3>Privacy e termini</h3>
+            </div>
+            <div>
+                <button>Accedi</button>
+            </div>
+        </div>
+        <div class="list-header">
+            <ul>
+                <li>Introduzione</li>
+                <li>Norme sulla privacy</li>
+                <li>Termini di servizio</li>
+                <li>Tecnologie</li>
+                <li>Domande frequenti</li>
+            </ul>
+        </div>
     </header>
 
     <main>
@@ -99,7 +116,21 @@ $faq = [
     </main>
 
     <footer>
-
+        <div class="footer-d">
+            <div class="footer-list">
+                <span>Google</span>
+                <span>Tutto su Google</span>
+                <span>Privacy</span>
+                <span>Termini</span>
+            </div>
+            <div>
+                <select name="" id="">
+                    <option value="">Italiano</option>
+                    <option value="">Inglese</option>
+                    <option value="">Spagnolo</option>
+                </select>
+            </div>
+        </div>
     </footer>
     
 </body>
