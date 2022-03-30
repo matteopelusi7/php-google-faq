@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+section {
+    padding: 40px 0;
+}
+
+p {
+    padding: 20px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #4ca0e9;
+}
+
+li {
+    line-height: 40px;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+ul > li {
+    max-width: 80%;
+}
